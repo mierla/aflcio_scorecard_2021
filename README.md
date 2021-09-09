@@ -1,5 +1,5 @@
-# Maine AFL-CIO 2019 - Legislative Scorecard
-The 2019 Maine AFL-CIO Scorecard. Updated from OpenMaine/aflcio_scorecard (2018).
+# Maine AFL-CIO 2021 - Legislative Scorecard
+The 2021 Maine AFL-CIO Scorecard. Updated from OpenMaine/aflcio_scorecard_2019.
 
 Solidarity Forever!
 
