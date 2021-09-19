@@ -8,7 +8,7 @@ export default function Header(props) {
       <img src="/theme/header.png" />
       
       <nav className="afl_menu">
-        <NavLink to="/legislators" activeClassName="active">Legislators</NavLink>
+        <NavLink to="/legislators" activeClassName="active">Find Your Legislators</NavLink>
         <NavLink to="/bills" activeClassName="active">Bills</NavLink>
         <NavLink to="/all-scores" activeClassName="active">All Scores</NavLink>
         <NavLink to="/about" activeClassName="active">About</NavLink>
