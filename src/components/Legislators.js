@@ -31,7 +31,7 @@ export default withStore(function Legislators(props) {
               Click <a href="/all-scores">here</a> to see them all.
             </h1>
             <h1 className="zero-state-message">
-              Can't find what you're looking for? Check out <a href="http://groundgamer.org" target="_blank">GroundGamer.org</a>.
+              Can't find what you're looking for? Check out <a href="http://groundgamer.org" target="_blank" rel="noopener noreferrer">GroundGamer.org</a>.
             </h1>
           </div>
         }
