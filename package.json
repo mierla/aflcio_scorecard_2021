@@ -68,4 +68,8 @@
       "last 1 safari version"
     ]
   }
+
+  "engines": {
+    "node": "10.15.3"
+  }
 }
