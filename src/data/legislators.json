@@ -5134,7 +5134,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:1",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:1",
         "legislative_chamber": "Senate",
         "districtNum": 1,
         "towns": "Allagash, Ashland, Caribou, Castle Hill, Caswell, Connor Twp., Cyr Plantation, Eagle Lake, Fort Kent, Frenchville, Garfield Plantation, Grand Isle, Hamlin, Limestone, Madawaska, Mapleton, Masardis, Nashville Plantation, New Canada, New Sweden, Northwest Aroostook Unorganized Territory, Oxbow Plantation, Perham, Portage Lake, Square Lake Unorganized Territory, Saint Agatha, Saint Francis, Saint John Plantation, Stockholm, Van Buren, Wade, Wallagrass, Washburn, Westmanland, Winterville Plantation and Woodland.",
@@ -5167,7 +5167,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:2",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:2",
         "legislative_chamber": "Senate",
         "districtNum": 2,
         "towns": "Amity, Bancroft, Blaine, Block 4293 of Tract 952900 in the Penobscot River, Bridgewater, Carroll Plantation, Cary Plantation, Central Aroostook Unorganized Territory, Chapman, Crystal, Drew Plantation, Dyer Brook, Easton, Fort Fairfield, Glenwood Plantation, Hammond, Haynesville, Hersey, Hodgdon, Houlton, Island Falls, Kingman Township, Lakeville, Lee, Linneus, Littleton, Ludlow, Macwahoc Plantation, Mars Hill, Merrill, Monticello, Moro Plantation, Mount Chase, New Limerick, Oakfield, Orient, Patten, Prentiss Township, Presque Isle, Reed Plantation, Sherman, Smyrna, South Aroostook Unorganized Territory, Springfield, Stacyville, Twombly Ridge T3R1 NBPP Township, Webster Plantation, Westfield, Weston, Whitney (Pukakon) T5R1 NBPP Township, Winn, and part of North Penobscot Unorganized Territory.",
@@ -5200,7 +5200,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:3",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:3",
         "legislative_chamber": "Senate",
         "districtNum": 3,
         "towns": "Anson, Bingham, Canaan, Caratunk, Central Somerset Unorganized Territory, Cornville, Dennistown Plantation, Embden, Highland Plantation, Jackman, Madison, Mercer, Moose River, Moscow, New Portland, Norridgewock, Northeast Somerset Unorganized Territory (includes Rockwood Strip), Northwest Somerset Unorganized Territory, Pittsfield, Pleasant Ridge Plantation, Rome, Seboomook Lake Unorganized Territory, Skowhegan, Smithfield, Solon, Starks, The Forks Plantation and West Forks Plantation.",
@@ -5233,7 +5233,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:4",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:4",
         "legislative_chamber": "Senate",
         "districtNum": 4,
         "towns": "Piscataquis County, all municipalities and Unorganized territories. Also,  Alton,  Athens, Bradford, Brighton Plantation, Cambridge, Charleston, Detroit, Dexter, Garland, Harmony, Hartland, Lagrange, Palmyra, Ripley and St. Albans. ",
@@ -5266,7 +5266,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:5",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:5",
         "legislative_chamber": "Senate",
         "districtNum": 5,
         "towns": "Argyle Twp., Chester, East Millinocket, Edinburg, Enfield, Greenbush, Howland, Mattawamkeag, Maxfield, Medway, Milford, Millinocket, Old Town, Orono, Passadumkeag, Penobscot Indian Island, Seboeis Plantation, Veazie, Woodville, and part of North Penobscot Unorganized Territory.",
@@ -5299,7 +5299,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:6",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:6",
         "legislative_chamber": "Senate",
         "districtNum": 6,
         "towns": "Washington County, all municipalities and unorganized territories. Also, Gouldsboro, Sullivan and Winter Harbor; and the part of East Hancock Unorganized Territory",
@@ -5332,7 +5332,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:7",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:7",
         "legislative_chamber": "Senate",
         "districtNum": 7,
         "towns": "Amherst, Aurora, Bar Harbor, Blue Hill, Brooklin, Brooksville, Central Hancock Unorganized Territory, Cranberry Isles, Deer Isle, Eastbrook, Ellsworth, Franklin, Frenchboro, Hancock, Lamoine, Mariaville, Marshall Island Township, Mount Desert, Osborn, Otis, Sedgwick, Sorrento, Southwest Harbor, Stonington, Surry, Swan’s Island, Tremont, Trenton, Waltham, and part of East Hancock Unorganized Territory.",
@@ -5365,7 +5365,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:8",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:8",
         "legislative_chamber": "Senate",
         "districtNum": 8,
         "towns": "Bradley, Brewer, Bucksport, Burlington, Castine, Clifton, Dedham, East Central Penobscot Unorganized Territory, Eddington, Great Pond, Holden, Lincoln, Lowell, Northwest Hancock Unorganized Territory, T32 MD Township, Orland, Orrington, Penobscot, Verona Island, and part of East Hancock Unorganized Territory.",
@@ -5398,7 +5398,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:9",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:9",
         "legislative_chamber": "Senate",
         "districtNum": 9,
         "towns": "Bangor and Hermon.",
@@ -5431,7 +5431,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:10",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:10",
         "legislative_chamber": "Senate",
         "districtNum": 10,
         "towns": "Carmel, Corinna, Corinth, Dixmont, Etna, Exeter, Glenburn, Hampden, Hudson, Kenduskeag, Levant, Newburgh, Newport, Plymouth, and Stetson.",
@@ -5464,7 +5464,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:11",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:11",
         "legislative_chamber": "Senate",
         "districtNum": 11,
         "towns": "Waldo County, all municipalities.",
@@ -5497,7 +5497,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:12",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:12",
         "legislative_chamber": "Senate",
         "districtNum": 12,
         "towns": "Appleton, Camden, Criehaven Twp., Cushing, Friendship, Hope, Isle au Haut, Matinicus Isle Plantation, Muscle Ridge Islands Township, North Haven, Owl’s Head, Rockland, Rockport, South Thomaston, St. George, Thomaston, Union, Vinalhaven, and Warren.",
@@ -5530,7 +5530,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:13",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:13",
         "legislative_chamber": "Senate",
         "districtNum": 13,
         "towns": "Alna, Boothbay, Boothbay Harbor, Bremen, Bristol, Damariscotta, Edgecomb, Hibberts Gore, Jefferson, Louds Island, Monhegan Island Plantation, Newcastle, Nobleboro, Somerville, South Bristol, Southport, Waldoboro, Washington, Westport Island, Whitefield, Windsor, and Wiscasset.",
@@ -5563,7 +5563,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:14",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:14",
         "legislative_chamber": "Senate",
         "districtNum": 14,
         "towns": "Chelsea, Farmingdale, Gardiner, Hallowell, Manchester, Monmouth, Pittston, Randolph, Readfield, West Gardiner, and Winthrop",
@@ -5596,7 +5596,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:15",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:15",
         "legislative_chamber": "Senate",
         "districtNum": 15,
         "towns": "Augusta, China, Oakland, Sidney, and Vassalboro.",
@@ -5629,7 +5629,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:16",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:16",
         "legislative_chamber": "Senate",
         "districtNum": 16,
         "towns": "Albion, Benton, Clinton, Fairfield, Unity Twp., Waterville, and Winslow.",
@@ -5662,7 +5662,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:17",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:17",
         "legislative_chamber": "Senate",
         "districtNum": 17,
         "towns": "Franklin County, all municipalities and unorganized territories. Kennebec County, Belgrade, Fayette, Mount Vernon and Vienna.",
@@ -5695,7 +5695,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:18",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:18",
         "legislative_chamber": "Senate",
         "districtNum": 18,
         "towns": "Andover, Bethel, Buckfield, Byron, Canton, Dixfield, Gilead, Greenwood, Hanover, Hartford, Hebron, Lincoln Plantation, Livermore, Livermore Falls, Lovell, Magalloway Plantation, Mexico, Milton Twp., Newry, North Oxford Unorganized Territory, Peru, Roxbury, Rumford, South Oxford Unorganized Territory, Stoneham, Stow, Sumner, Sweden, Upton, Waterford, West Paris, and Woodstock.",
@@ -5728,7 +5728,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:19",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:19",
         "legislative_chamber": "Senate",
         "districtNum": 19,
         "towns": "Bridgton, Brownfield, Denmark, Fryeburg, Harrison, Hiram, Naples, Norway, Otisfield, Oxford, Paris, Porter and Sebago.",
@@ -5761,7 +5761,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:20",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:20",
         "legislative_chamber": "Senate",
         "districtNum": 20,
         "towns": "Auburn, Mechanic Falls, Minot, New Gloucester, and Poland",
@@ -5794,7 +5794,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:21",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:21",
         "legislative_chamber": "Senate",
         "districtNum": 21,
         "towns": "Lewiston.",
@@ -5827,7 +5827,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:22",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:22",
         "legislative_chamber": "Senate",
         "districtNum": 22,
         "towns": "Durham, Greene, Leeds, Lisbon, Litchfield, Sabattus, Turner, Wales, and Wayne.",
@@ -5860,7 +5860,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:23",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:23",
         "legislative_chamber": "Senate",
         "districtNum": 23,
         "towns": "Sagadahoc County, all municipalities and Dresden. ",
@@ -5893,7 +5893,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:24",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:24",
         "legislative_chamber": "Senate",
         "districtNum": 24,
         "towns": "Brunswick, Freeport, Harpswell, North Yarmouth and  Pownal.",
@@ -5926,7 +5926,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:25",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:25",
         "legislative_chamber": "Senate",
         "districtNum": 25,
         "towns": "Chebeague Island, Cumberland, Falmouth, Gray, Long Island, Yarmouth, and part of Westbrook.",
@@ -5959,7 +5959,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:26",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:26",
         "legislative_chamber": "Senate",
         "districtNum": 26,
         "towns": "Baldwin, Casco, Frye Island, Raymond, Standish, and Windham.",
@@ -5992,7 +5992,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:27",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:27",
         "legislative_chamber": "Senate",
         "districtNum": 27,
         "towns": "part of Portland",
@@ -6025,7 +6025,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:28",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:28",
         "legislative_chamber": "Senate",
         "districtNum": 28,
         "towns": "part of Westbrook and part of Portland.",
@@ -6058,7 +6058,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:29",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:29",
         "legislative_chamber": "Senate",
         "districtNum": 29,
         "towns": "Cape Elizabeth, South Portland, and part of Scarborough. ",
@@ -6091,7 +6091,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:30",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:30",
         "legislative_chamber": "Senate",
         "districtNum": 30,
         "towns": "Gorham, part of Scarborough and part of Buxton,",
@@ -6124,7 +6124,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:31",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:31",
         "legislative_chamber": "Senate",
         "districtNum": 31,
         "towns": "Hollis, Limington, Old Orchard Beach and Saco; and part of Buxton",
@@ -6157,7 +6157,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:32",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:32",
         "legislative_chamber": "Senate",
         "districtNum": 32,
         "towns": "Alfred, Arundel, Biddeford, Dayton, Kennebunkport, and Lyman",
@@ -6190,7 +6190,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:33",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:33",
         "legislative_chamber": "Senate",
         "districtNum": 33,
         "towns": "Cornish, Limerick, Newfield, Parsonsfield, Sanford, Shapleigh, and Waterboro.",
@@ -6223,7 +6223,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:34",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:34",
         "legislative_chamber": "Senate",
         "districtNum": 34,
         "towns": "Acton, Kennebunk, Lebanon, North Berwick, Wells, and part of Berwick",
@@ -6256,7 +6256,7 @@
         }
     },
     {
-        "ocdId": "ocd-division\\/country:us\\/state:me\\/sldu:35",
+        "ocdId": "ocd-division\/country:us\/state:me\/sldu:35",
         "legislative_chamber": "Senate",
         "districtNum": 35,
         "towns": "Eliot, Kittery, Ogunquit, South Berwick, York, and part of Berwick",
