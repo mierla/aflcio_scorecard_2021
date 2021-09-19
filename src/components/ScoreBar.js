@@ -12,7 +12,7 @@ export default function ScoreBar(props) {
   var scoreColor = lerpColor('#FF5734', '#00B142', score / 100)
 
 
-  if(score == 'E'){
+  if(score === 'E'){
     scoreColor = '#cccccc'
     goodBarStyle.background = scoreColor;
     goodBarStyle.flexBasis = '100%';
