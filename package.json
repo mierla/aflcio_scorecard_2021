@@ -26,9 +26,10 @@
     "react-spinners": "^0.3.2",
     "request": "^2.86.0",
     "rxjs": "^6.2.1",
-    "sharp": "^0.20.2",
+    "sharp": "0.20.8",
     "slug": "^0.9.1",
     "smartcrop-sharp": "^2.0.3",
+    "typescript": "4.5.0-dev.20210919",
     "undux": "^4.7.1",
     "whatwg-fetch": "^2.0.4"
   },
