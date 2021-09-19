@@ -53,7 +53,7 @@ export default function LegislatorDetail({ match }) {
         <section className="scores">
           <div className="row">
             <div className="col-xs-12 col-md-5"><div className="mpa-score box">
-              <h1>2019 Score</h1>
+              <h1>2021 Score</h1>
               <ScoreBar score={orgscore} />
               <div className="score-bar-sub-text">
                 {`${abbreviatedChamberTitle(legislator)} ${name.fullName}'s alignment with our values this legislative session.`}
