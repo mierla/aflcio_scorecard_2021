@@ -33,11 +33,11 @@
   "scripts": {
     "start": "REACT_APP_ENV=development react-scripts start",
     "launch": "PORT=80 react-scripts start",
-    "build_env": ". ./.env.${REACT_APP_ENV} && react-scripts build && react-snap",
+    "build_env": ". ./.env && react-scripts build && react-snap",
     "build:staging": "REACT_APP_ENV=staging yarn build_env",
     "build:production": "REACT_APP_ENV=production yarn build_env",
     "build": "yarn build:production",
-    "deploy_env": ". ./.env.${REACT_APP_ENV} && aws s3 sync build/ s3://${AWS_S3_BUCKET_NAME} --acl public-read && aws s3 cp build/service-worker.js s3://${AWS_S3_BUCKET_NAME} --acl public-read --cache-control \"s-maxage=86400, max-age=0\" && aws cloudfront create-invalidation --distribution-id ${AWS_CLOUDFRONT_ID} --paths \"/*\"",
+    "deploy_env": ". ./.env.${REACT_APP_ENV}",
     "deploy:staging": "REACT_APP_ENV=staging yarn deploy_env",
     "deploy:production": "REACT_APP_ENV=production yarn deploy_env",
     "deploy": "yarn deploy:production",
