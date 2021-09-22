@@ -12,6 +12,7 @@ export default function Header(props) {
         <NavLink to="/bills" activeClassName="active">Bills</NavLink>
         <NavLink to="/all-scores" activeClassName="active">All Scores</NavLink>
         <NavLink to="/about" activeClassName="active">About</NavLink>
+        <a href="/pdf/2021-Working-Families-Scorecard.pdf" activeClassName="active">Download Scorecard PDF</a>
       </nav>
     </div>
   )
