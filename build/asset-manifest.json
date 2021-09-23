@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4c93159.chunk.css",
-    "main.js": "/static/js/main.ac36cbf9.chunk.js",
-    "main.js.map": "/static/js/main.ac36cbf9.chunk.js.map",
+    "main.css": "/static/css/main.2ed65f7c.chunk.css",
+    "main.js": "/static/js/main.06092bbc.chunk.js",
+    "main.js.map": "/static/js/main.06092bbc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba307723.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba307723.js.map",
     "static/css/2.e985627f.chunk.css": "/static/css/2.e985627f.chunk.css",
-    "static/js/2.c6a2ee7b.chunk.js": "/static/js/2.c6a2ee7b.chunk.js",
-    "static/js/2.c6a2ee7b.chunk.js.map": "/static/js/2.c6a2ee7b.chunk.js.map",
+    "static/js/2.b336e2e3.chunk.js": "/static/js/2.b336e2e3.chunk.js",
+    "static/js/2.b336e2e3.chunk.js.map": "/static/js/2.b336e2e3.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.e985627f.chunk.css.map": "/static/css/2.e985627f.chunk.css.map",
-    "static/css/main.c4c93159.chunk.css.map": "/static/css/main.c4c93159.chunk.css.map",
-    "static/js/2.c6a2ee7b.chunk.js.LICENSE.txt": "/static/js/2.c6a2ee7b.chunk.js.LICENSE.txt"
+    "static/css/main.2ed65f7c.chunk.css.map": "/static/css/main.2ed65f7c.chunk.css.map",
+    "static/js/2.b336e2e3.chunk.js.LICENSE.txt": "/static/js/2.b336e2e3.chunk.js.LICENSE.txt",
+    "static/media/2012-Maine-AFLCIO-Scorecard.6822afdc.pdf": "/static/media/2012-Maine-AFLCIO-Scorecard.6822afdc.pdf",
+    "static/media/2014-Maine-AFLCIO-Scorecard.250b12ea.pdf": "/static/media/2014-Maine-AFLCIO-Scorecard.250b12ea.pdf",
+    "static/media/2016-Maine-AFLCIO-Scorecard.b94f950e.pdf": "/static/media/2016-Maine-AFLCIO-Scorecard.b94f950e.pdf",
+    "static/media/2018-Maine-AFLCIO-Scorecard.df2ad8e8.pdf": "/static/media/2018-Maine-AFLCIO-Scorecard.df2ad8e8.pdf",
+    "static/media/2021-Maine-AFLCIO-Scorecard.ea663b70.pdf": "/static/media/2021-Maine-AFLCIO-Scorecard.ea663b70.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.ba307723.js",
     "static/css/2.e985627f.chunk.css",
-    "static/js/2.c6a2ee7b.chunk.js",
-    "static/css/main.c4c93159.chunk.css",
-    "static/js/main.ac36cbf9.chunk.js"
+    "static/js/2.b336e2e3.chunk.js",
+    "static/css/main.2ed65f7c.chunk.css",
+    "static/js/main.06092bbc.chunk.js"
   ]
 }
