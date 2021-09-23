@@ -32,9 +32,9 @@ export default withStore(function Legislators(props) {
               Click <a href="/all-scores">here</a> to see them all.
             </h1>
             <h1 className="zero-state-message">
-              <a href="/pdf/2021-Working-Families-Scorecard.pdf">Download the 2021 Scorecard [PDF]</a>           
+              <a href="/pdf/2021-Maine-AFLCIO-scorecard.pdf">Download the 2021 Scorecard [PDF]</a>           
             </h1>
-            <a href="/pdf/2021-Working-Families-Scorecard.pdf">
+            <a href="/pdf/2021-Maine-AFLCIO-scorecard.pdf">
               <img src={thumbnail} alt="2021 Scorecard Thumbnail" class="homepage-thumb" />
             </a>  
             <h1 className="zero-state-message">
