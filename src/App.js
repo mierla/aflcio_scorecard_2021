@@ -9,6 +9,7 @@ import Bills from './components/Bills'
 import BillDetail from './components/BillDetail'
 import AllScores from './components/AllScores'
 import About from './components/About'
+import Archive from './components/Archive'
 import PageNotFound from './components/PageNotFound'
 
 
@@ -28,6 +29,7 @@ class App extends Component {
             <Route path="/bills" component={Bills} />
             <Route path="/all-scores" component={AllScores} />
             <Route path="/about" component={About} />
+            <Route path="/archive" component={Archive} />
             <Route component={PageNotFound} />
           </Switch>
         </div>
