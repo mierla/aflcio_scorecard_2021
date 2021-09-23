@@ -2,6 +2,7 @@ import React from 'react'
 import FindMyLegislators from './FindMyLegislators'
 import LegislatorCard from './LegislatorCard'
 import withStore from '../services/legislators-store'
+import thumbnail from '../assets/images/2021-scorecard-cover.png'
 
 
 export default withStore(function Legislators(props) {
@@ -33,6 +34,9 @@ export default withStore(function Legislators(props) {
             <h1 className="zero-state-message">
               <a href="/pdf/2021-Working-Families-Scorecard.pdf">Download the 2021 Scorecard [PDF]</a>           
             </h1>
+            <a href="/pdf/2021-Working-Families-Scorecard.pdf">
+              <img src={thumbnail} alt="2021 Scorecard Thumbnail" class="homepage-thumb" />
+            </a>  
             <h1 className="zero-state-message">
               Can't find what you're looking for? Check out <a href="http://groundgamer.org" target="_blank" rel="noopener noreferrer">GroundGamer.org</a>.
             </h1>

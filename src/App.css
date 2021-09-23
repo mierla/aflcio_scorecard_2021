@@ -541,6 +541,10 @@ input.popover-input {
     margin-top: 2rem;
     margin-bottom: 2rem;
   }
+
+  .legislators img.homepage-thumb {
+    max-width: 98%;
+  }
 }
 
 
