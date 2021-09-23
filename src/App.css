@@ -174,7 +174,7 @@ input:not([type=submit]).full-width {
 @media screen and (max-width: 48em) {
   
   .afl_header {
-    height: 145px;
+    height: 200px;
   }
 
   .afl_header img {
@@ -818,3 +818,20 @@ input.popover-input {
 }
 
 
+/* archive page */
+.container.archive-list {
+  font-size: 1.125rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.container.archive-list .row {
+  margin-bottom: 1rem;
+}
+
+@media only screen and (max-width: 48em) {
+  .container.archive-list {
+    justify-content: space-around;
+  }
+}
