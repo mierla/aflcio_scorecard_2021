@@ -27,7 +27,7 @@ export default withStore(function Legislators(props) {
         { yourLegislators.length === 0 &&
           <div>
             <h1 className="zero-state-message">
-              Enter your address above to find your representatives.
+              Enter your address above to find your representatives. <em>Note: this tool only works with residential addresses.</em>
             </h1>
             <h1 className="zero-state-message">
               Click <a href="/all-scores">here</a> to see them all.
@@ -38,9 +38,6 @@ export default withStore(function Legislators(props) {
             <a href={twentyTwentyone}>
               <img src={thumbnail} alt="2021 Scorecard Thumbnail" class="homepage-thumb" />
             </a>  
-            <h1 className="zero-state-message">
-              Can't find what you're looking for? Check out <a href="http://groundgamer.org" target="_blank" rel="noopener noreferrer">GroundGamer.org</a>.
-            </h1>
           </div>
         }
       </div>
