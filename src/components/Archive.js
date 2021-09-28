@@ -5,6 +5,7 @@ import twentyTwelve from '../assets/pdfs/2012-Maine-AFLCIO-Scorecard.pdf'
 import twentyFourteen from '../assets/pdfs/2014-Maine-AFLCIO-Scorecard.pdf'
 import twentySixteen from '../assets/pdfs/2016-Maine-AFLCIO-Scorecard.pdf'
 import twentyEighteen from '../assets/pdfs/2018-Maine-AFLCIO-Scorecard.pdf'
+import twentyNineteen from '../assets/pdfs/2019-Maine-AFLCIO-Scorecard.pdf'
 import twentyTwentyOne from '../assets/pdfs/2021-Maine-AFLCIO-Scorecard.pdf'
 
 export default function Archive() {
@@ -23,6 +24,9 @@ export default function Archive() {
 				<div class="row">
 					<a href={twentyEighteen} class="button" alt="2018">2018 Scorecard</a>				
 				</div>
+				<div class="row">
+					<a href={twentyNineteen} class="button" alt="2019">2019 Scorecard</a>	
+
 				<div class="row">
 					<a href={twentyTwentyOne} class="button" alt="2021">2021 Scorecard</a>				
 				</div>
