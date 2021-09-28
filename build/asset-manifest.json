@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3c1e838.chunk.css",
+    "main.js": "/static/js/main.cc044854.chunk.js",
+    "main.js.map": "/static/js/main.cc044854.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ba307723.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ba307723.js.map",
+    "static/css/2.e985627f.chunk.css": "/static/css/2.e985627f.chunk.css",
+    "static/js/2.b336e2e3.chunk.js": "/static/js/2.b336e2e3.chunk.js",
+    "static/js/2.b336e2e3.chunk.js.map": "/static/js/2.b336e2e3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e985627f.chunk.css.map": "/static/css/2.e985627f.chunk.css.map",
+    "static/css/main.e3c1e838.chunk.css.map": "/static/css/main.e3c1e838.chunk.css.map",
+    "static/js/2.b336e2e3.chunk.js.LICENSE.txt": "/static/js/2.b336e2e3.chunk.js.LICENSE.txt",
+    "static/media/2012-Maine-AFLCIO-Scorecard.6822afdc.pdf": "/static/media/2012-Maine-AFLCIO-Scorecard.6822afdc.pdf",
+    "static/media/2014-Maine-AFLCIO-Scorecard.250b12ea.pdf": "/static/media/2014-Maine-AFLCIO-Scorecard.250b12ea.pdf",
+    "static/media/2016-Maine-AFLCIO-Scorecard.b94f950e.pdf": "/static/media/2016-Maine-AFLCIO-Scorecard.b94f950e.pdf",
+    "static/media/2018-Maine-AFLCIO-Scorecard.df2ad8e8.pdf": "/static/media/2018-Maine-AFLCIO-Scorecard.df2ad8e8.pdf",
+    "static/media/2019-Maine-AFLCIO-Scorecard.b81ee363.pdf": "/static/media/2019-Maine-AFLCIO-Scorecard.b81ee363.pdf",
+    "static/media/2021-Maine-AFLCIO-Scorecard.f3ecac7a.pdf": "/static/media/2021-Maine-AFLCIO-Scorecard.f3ecac7a.pdf",
+    "static/media/2021-scorecard-cover.7cc8c772.png": "/static/media/2021-scorecard-cover.7cc8c772.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba307723.js",
+    "static/css/2.e985627f.chunk.css",
+    "static/js/2.b336e2e3.chunk.js",
+    "static/css/main.e3c1e838.chunk.css",
+    "static/js/main.cc044854.chunk.js"
+  ]
+}
