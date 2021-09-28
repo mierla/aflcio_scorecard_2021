@@ -26,7 +26,7 @@ export default function Archive() {
 				</div>
 				<div class="row">
 					<a href={twentyNineteen} class="button" alt="2019">2019 Scorecard</a>	
-
+				</div>
 				<div class="row">
 					<a href={twentyTwentyOne} class="button" alt="2021">2021 Scorecard</a>				
 				</div>
